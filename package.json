@@ -1,0 +1,19 @@
+{
+  "name": "member-counter",
+  "version": "1.0.0",
+  "description": "A member counter for Roblox groups.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "keywords": [],
+  "author": "Lengo#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
